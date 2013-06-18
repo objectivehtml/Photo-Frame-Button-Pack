@@ -101,13 +101,13 @@
 			var html = $([
 				'<div class="photo-frame-inline">',
 					'<div class="photo-frame-inline-block photo-frame-med-margin-right">',
-						'<i class="icon-circle"></i>',
+						'<i class="icon-circle-empty"></i>',
 					'</div>',
 					'<div class="photo-frame-inline-block">',
 						'<div class="photo-frame-slider"></div>',
 					'</div>',
 					'<div class="photo-frame-inline-block photo-frame-med-margin-left">',
-						'<i class="icon-circle-empty"></i>',
+						'<i class="icon-circle"></i>',
 					'</div>',
 				'</div>'
 			].join(''));
